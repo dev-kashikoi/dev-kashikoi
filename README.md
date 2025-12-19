@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ryujin Kashikoi
 
-<!--
-**dev-kashikoi/dev-kashikoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer in training, focused on learning through practice and real projects.
 
-Here are some ideas to get you started:
+## About
+Currently studying software development with an emphasis on web technologies and programming fundamentals.  
+Interested in clean code, good practices, and continuous improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Studying
+- Python
+- Rust
+- TypeScript
+- Vue.js
+- Next.js
+- Tailwind CSS
+
+## Hobbies
+- Watching anime
+- Reading manga, manhwa, and manhua
+- Studying a foreign language
+
+## Goals
+To build solid projects, strengthen fundamentals, and grow as a developer.
